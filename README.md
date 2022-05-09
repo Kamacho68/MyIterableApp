@@ -27,4 +27,5 @@ Render the in-app message on your device or simulator via an SDK in-app function
 2) Submit the URL of a Github repository with your code + the in-app screenshot to the email address in the in-app.
 
 # Screenshot
+<img src="images/In-App-Message.png" width="400" height="800">
 
