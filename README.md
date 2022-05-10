@@ -19,7 +19,7 @@ This exercise consist of creating an Android app using the Iterable SDK to execu
 2. key: platform, value: “Android”
 3. key: isTestEvent, value: true
 4. key: url, value: “https://iterable.com/sa-test/YOUR_FIRST_NAME_HERE”
-5. key: secret_code_key, value: “CODE_PROVIDE_IN_EMAIL”
+5. key: secret_code_key, value: “CODE_PROVIDED_IN_EMAIL”
 
 # Step 3
 Render the in-app message on your device or simulator via an SDK in-app function or API. Then send:
